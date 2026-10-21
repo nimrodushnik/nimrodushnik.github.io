@@ -22,3 +22,4 @@ My research is about the role of intestinal signals in interoception and behavio
 
 ## [My GitHub](https://github.com/nimrodushnik)
 
+![mouse in experiemt](pic.jpg)
