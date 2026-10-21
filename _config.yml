@@ -1,3 +1,5 @@
-title: "JEKYLL TEST"
-description: "Testing the Hacker theme"
-theme: jekyll-theme-hacker
+title: "exercise 1"
+description: "personal site exercise"
+remote_theme: b2a3e8/jekyll-theme-console
+style: dark
+
