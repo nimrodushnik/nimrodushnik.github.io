@@ -1,5 +1,6 @@
-title: "exercise 1"
-description: "personal site exercise"
 remote_theme: b2a3e8/jekyll-theme-console
-style: dark
 
+plugins:
+  - jekyll-remote-theme
+
+style: hacker
