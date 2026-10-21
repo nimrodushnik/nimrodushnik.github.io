@@ -4,3 +4,5 @@ plugins:
   - jekyll-remote-theme
 
 style: nord
+header_pages:
+  - index.md
