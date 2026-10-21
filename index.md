@@ -1,10 +1,3 @@
-<style>
-body {
-  font-size: 30px;
-  line-height: 1.7;
-}
-</style>
-
 Welcome to my website!
 
 ## About Me
