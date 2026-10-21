@@ -1,15 +1,12 @@
-# Nimrod Dushnik
+# Hello, world
 
-Welcome to my personal academic website!
-
----
+Welcome to my website!
 
 ## About Me
 
-Hello! My name is **Nimrod Dushnik**.
+My name is Nimrod Dushnik Shamir.
 
-I am interested in *scientific research* and
-understanding complex biological systems.
+I am a MSc student at Yoav Livneh's lab.
 
 ## Research Interests
 
@@ -29,22 +26,12 @@ My main interests include:
 | 2024 | Joined a research lab |
 | 2026 | Research project |
 
-## My Goals
+## My Goals For the Course
 
 1. Develop my research skills
 2. Participate in scientific projects
 3. Publish research findings
 4. Continue my academic education
 
-## Useful Links
+## [My GitHub](https://github.com/nimrodushnik)
 
-- [My GitHub](https://github.com/nimrodushnik)
-- [Google Scholar](https://scholar.google.com)
-
----
-
-## Contact
-
-You can contact me at:
-
-**Email:** example@example.com
