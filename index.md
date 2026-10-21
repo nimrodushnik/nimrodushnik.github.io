@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 # Nimrod Dushnik
 
 Welcome to my personal academic website!
