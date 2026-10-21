@@ -5,8 +5,8 @@ Welcome to my website!
 ## About Me
 
 My name is Nimrod Dushnik Shamir.
-I am an MSc student at Yoav Livneh's lab.
-My research is about The Role of Intestinal Signals in Interoception and Behavior.
+I am an MSc student at [Yoav Livneh's lab] (https://www.weizmann.ac.il/brain-sciences/labs/livneh/).
+My research is about the role of intestinal signals in interoception and behavior.
 
 ## Research Interests
 - Brain and behavior
