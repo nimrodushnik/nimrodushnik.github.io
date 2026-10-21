@@ -1,32 +1,31 @@
+
 ---
 layout: default
+title: Home
 ---
 
-# My Name
+# Nimrod Dushnik
+
+Welcome to my academic website!
 
 ## About Me
 
-I am a researcher at Example University.
+I am interested in scientific research.
 
-## My Research
+## Research Interests
 
-I am interested in neuroscience, biology,
-and computational modeling.
+- Research topic 1
+- Research topic 2
+- Research topic 3
 
 ## My Lab
 
-I am currently working in Professor Smith's
-lab at Example University.
-
-## Academic Background
-
-I completed my B.Sc. in Biology.
+I am a member of the XYZ Lab at Example University.
 
 ## Future Plans
 
-I hope to continue my academic research
-and pursue a Ph.D.
+I plan to continue my academic research.
 
 ## Contact
 
-Email: myname@example.com
+Email: example@example.com
