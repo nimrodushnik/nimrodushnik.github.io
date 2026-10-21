@@ -1,6 +1,6 @@
 <style>
 body {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 1.7;
 }
 </style>
@@ -11,8 +11,7 @@ Welcome to my website!
 
 My name is Nimrod Dushnik Shamir.
 I am an MSc student at [Yoav Livneh's lab](https://www.weizmann.ac.il/brain-sciences/labs/livneh/).
-My research is about the role of intestinal signals
-in interoception and behavior.
+My research is about the role of intestinal signals in interoception and behavior.
 
 ## Research Interests
 - Brain and behavior
