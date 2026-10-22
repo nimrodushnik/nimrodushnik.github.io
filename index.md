@@ -3,45 +3,21 @@
 layout: default
 ---
 
-<style>
-body {
-  font-size: 20px;
-  line-height: 1.8;
-}
-
-h1 {
-  font-size: 44px !important;
-  color: #88c0d0 !important;
-}
-
-h2 {
-  font-size: 30px !important;
-  color: #a3be8c !important;
-  margin-top: 35px;
-  border-bottom: 1px solid #4c566a;
-  padding-bottom: 8px;
-}
-
-a {
-  color: #88c0d0;
-}
-</style>
-
 # Nimrod Dushnik Shamir
 
 **MSc Student | Weizmann Institute of Science**
 
-Welcome to my personal website!
+Welcome to my personal academic website!
 
 ## About Me
 
-My name is Nimrod Dushnik Shamir.
+My name is **Nimrod Dushnik Shamir**.
 
 I am an MSc student at [Yoav Livneh's lab](https://www.weizmann.ac.il/brain-sciences/labs/livneh/).
 
-My research focuses on the role of intestinal signals in interoception and behavior.
+My research focuses on the role of **intestinal signals in interoception and behavior**.
 
-<img src="/pic.jpg" width="250" alt="My profile photo">
+![Portrait of Nimrod Dushnik Shamir](/pic.jpg)
 
 ## Research Interests
 
