@@ -1,128 +1,61 @@
-```html
+
 ---
 layout: default
 ---
 
 <style>
-/* General text */
 body {
-  font-size: 19px;
+  font-size: 20px;
   line-height: 1.8;
 }
 
-/* Main title */
 h1 {
   font-size: 44px !important;
   color: #88c0d0 !important;
-  letter-spacing: 1px;
-  margin-bottom: 12px;
 }
 
-/* Section headings */
 h2 {
-  font-size: 29px !important;
+  font-size: 30px !important;
   color: #a3be8c !important;
+  margin-top: 35px;
   border-bottom: 1px solid #4c566a;
   padding-bottom: 8px;
-  margin-top: 38px;
 }
 
-/* Links */
 a {
   color: #88c0d0;
-}
-
-a:hover {
-  color: #b48ead;
-}
-
-/* About section */
-.about-section {
-  display: flex;
-  align-items: center;
-  gap: 35px;
-  margin-top: 25px;
-}
-
-.about-text {
-  flex: 1;
-  min-width: 0;
-}
-
-.about-photo {
-  width: 230px;
-  max-width: 35%;
-  height: auto;
-  border-radius: 15px;
-  object-fit: cover;
-}
-
-/* Lists */
-li {
-  margin-bottom: 8px;
-}
-
-/* Mobile layout */
-@media (max-width: 650px) {
-  .about-section {
-    flex-direction: column-reverse;
-    align-items: flex-start;
-  }
-
-  .about-photo {
-    width: 220px;
-    max-width: 100%;
-    align-self: center;
-  }
-
-  h1 {
-    font-size: 34px !important;
-  }
 }
 </style>
 
 # Nimrod Dushnik Shamir
 
-*MSc Student | Brain Sciences | Weizmann Institute of Science*
+**MSc Student | Weizmann Institute of Science**
 
-<div class="about-section">
-  <div class="about-text">
-    <h2>About Me</h2>
+Welcome to my personal website!
 
-    <p>
-      My name is <strong>Nimrod Dushnik Shamir</strong>.
-      I am an MSc student in
-      <a href="https://www.weizmann.ac.il/brain-sciences/labs/livneh/">
-      Yoav Livneh's lab</a>.
-    </p>
+## About Me
 
-    <p>
-      My research focuses on the role of
-      <strong>intestinal signals</strong> in
-      interoception and behavior.
-    </p>
-  </div>
+My name is Nimrod Dushnik Shamir.
 
-  <img
-    class="about-photo"
-    src="/pic.jpg"
-    alt="Portrait of Nimrod Dushnik Shamir">
-</div>
+I am an MSc student at [Yoav Livneh's lab](https://www.weizmann.ac.il/brain-sciences/labs/livneh/).
+
+My research focuses on the role of intestinal signals in interoception and behavior.
+
+<img src="/pic.jpg" width="250" alt="My profile photo">
 
 ## Research Interests
 
 - Brain and behavior
-- Brain–body axis
+- Brain-body axis
 - Interoception
 
 ## My Goals for the Course
 
 1. Understand the basics of coding in Python.
-2. Learn the fundamentals of using GitHub.
+2. Learn the basics of using GitHub.
 3. Practice writing code and debugging.
-4. Explore how these tools can support my research.
+4. Understand how these tools can help me in my research.
 
 ## Find Me Online
 
-[**My GitHub Profile →**](https://github.com/nimrodushnik)
-```
+[My GitHub Profile](https://github.com/nimrodushnik)
