@@ -1,4 +1,4 @@
-### Welcome to my website!
+Welcome to my website!
 ## About Me
 
 My name is Nimrod Dushnik Shamir.
@@ -19,6 +19,7 @@ My research focuses on the role of intestinal signals in interoception and behav
 2. Learn the basics of using GitHub.
 3. Practice writing code and debugging.
 4. Understand how these tools can help me in my research.
+
 ---
 
 [My GitHub Profile](https://github.com/nimrodushnik)
