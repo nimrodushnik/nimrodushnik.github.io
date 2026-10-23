@@ -1,6 +1,4 @@
-remote_theme: b2a3e8/jekyll-theme-console
 
-plugins:
-  - jekyll-remote-theme
-
-style: nord
+title: "Nimrod Dushnik Shamir"
+description: "MSc Student | Weizmann Institute of Science"
+theme: jekyll-theme-hacker
